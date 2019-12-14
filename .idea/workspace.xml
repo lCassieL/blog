@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb37fcc7-a5c8-464f-990c-bda7e94923cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dkablog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dkablog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/layouts/app_admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layouts/app_admin.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +168,8 @@
       <option name="presentableId" value="Default" />
       <updated>1576248587646</updated>
       <workItem from="1576248594000" duration="4099000" />
-      <workItem from="1576331590155" duration="3176000" />
+      <workItem from="1576331590155" duration="3999000" />
+      <workItem from="1576348745172" duration="4861000" />
     </task>
     <servers />
   </component>
@@ -189,9 +181,9 @@
       <screen x="65" y="24" width="1855" height="951" />
     </state>
     <state x="1089" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.951@65.24.1855.951" timestamp="1576251328110" />
-    <state x="157" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1576331587767">
+    <state x="157" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1576348746990">
       <screen x="65" y="24" width="1855" height="951" />
     </state>
-    <state x="157" y="273" key="com.intellij.ide.util.TipDialog/65.24.1855.951@65.24.1855.951" timestamp="1576331587767" />
+    <state x="157" y="273" key="com.intellij.ide.util.TipDialog/65.24.1855.951@65.24.1855.951" timestamp="1576348746990" />
   </component>
 </project>
